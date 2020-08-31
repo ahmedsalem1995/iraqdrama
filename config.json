@@ -1,1 +1,525 @@
+[{
+		"title": "مسلسلات عراقية",
+		"drawable": "",
+		"submenu": "مسلسلات عراقية",
+		"iap": false,
+		"tabs": [
 
+			{
+				"title": "مسلسل مصير الحب",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZkHf2a-y8mTCE76aw1qEwj",
+					"playlist"
+
+				]
+			},
+
+            {
+				"title": "طائر الجنوب",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXbflyddWzAs16ZTwmEjZiRh",
+					"playlist"
+
+				]
+			} 
+			,
+
+            {
+				"title": "عطالة بطالة",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZ1eTOor_zZ5jmZwj307ICR",
+					"playlist"
+
+				]
+			} 
+			,
+
+            {
+				"title": "ماضي يا ماضي - الجزء الاول",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZCb8NI9y9HUDFBj4ngf5sF",
+					"playlist"
+
+				]
+			} 
+			,
+
+            {
+				"title": "دورة الزمن",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZz-X6RpPgtOD6WMa0KyhTT",
+					"playlist"
+
+				]
+			} 
+			 
+			,
+
+            {
+				"title": "ماضي يا ماضي - الجزء الثاني",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXYh7BszyIyjWfmQ4IdY64oz",
+					"playlist"
+
+				]
+			} 
+			,
+
+            {
+				"title": "هذا هو الحب",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXbHhqsJc7DXXnAdp_6HdCfx",
+					"playlist"
+
+				]
+			} 
+			,
+
+            {
+				"title": "جحيم الفردوس",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZYk8SI060XqSpY7Ix-qh0h",
+					"playlist"
+
+				]
+			} 
+			,
+      
+            
+            {
+				"title": "المسلسل العراقي عش المجانين",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXaYco6QJtcsJCHq3TZh_x44",
+					"playlist"
+
+				]
+			}
+			
+			,
+            
+            {
+				"title": "مرافئ الحنين",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXYTVszMzM4XeDQ9ibo6vInv",
+					"playlist"
+
+				]
+			}
+			
+			,
+            
+            {
+				"title": "زيدان المليان",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXbTlE0xoNP-uftqo7tZO5mL",
+					"playlist"
+
+				]
+			}
+					
+			
+		]
+	}
+	
+	,
+	
+	{
+		"title": "الدراما العراقية",
+		"drawable": "",
+		"submenu": "الدراما العراقية",
+		"iap": false,
+		"tabs": [
+
+			{
+				"title": "مسلسل الإعتراف",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXafEarnDD72UfUVEm9kzqD2",
+					"playlist"
+
+				]
+			},
+
+            {
+				"title": "مسلسل اوركسترا",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXbRcZEIQdG8VBTZ8ZI0Uuai",
+					"playlist"
+
+				]
+			},
+			
+			{
+				"title": "مسلسل ثلج في زمن النار",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXY6xu8tabjIApwVlRlE3weY",
+					"playlist"
+
+				]
+			},
+			
+			{
+				"title": "مسلسل مناوي باشا - ج٣",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXbyYqIZ0kTPe7SGdWA_VRos",
+					"playlist"
+
+				]
+			}
+			
+			  {
+				"title": "المسلسل العراقي الرصافي",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZHYVP-xdBq9Uu0suTu2NQX",
+					"playlist"
+
+				]
+			}
+			
+			,
+            
+            {
+				"title": "المسلسل العراقي فيروز",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZVzaFnXyf_8BWoLPem7Ve0",
+					"playlist"
+
+				]
+			}
+			
+		,
+            
+            {
+				"title": "مسلسل الوان الرماد",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXbjTD-4OBk_Ky0eMmBK_VdC",
+					"playlist"
+
+				]
+			}
+			,
+            
+            {
+				"title": "مسلسل فندق قدري",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZohaGEaG0rHmkB_WxnWjBi",
+					"playlist"
+
+				]
+			}
+			,
+            
+            {
+				"title": "المسلسل العراقي متى ننام",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXYLibr_mmh1hLUV1KqWLrRV",
+					"playlist"
+
+				]
+			}
+			,
+            
+            {
+				"title": "جريش ومريش - الجزء الاول",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXYyLUgCpvDrBewU2GQcdcJK",
+					"playlist"
+
+				]
+			}
+			,
+            
+            {
+				"title": "مسلسل رجال و قضية",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXaFCINQuFJmoSfcbBcyIK_6",
+					"playlist"
+
+				]
+			}
+			
+									 
+		]
+	}
+	
+	,
+						
+	{
+		"title": "مسلسل بيت الطين",
+		"drawable": "",
+		"submenu": "مسلسل بيت الطين",
+		"iap": false,
+		"tabs": [
+
+			{
+				"title": "مسلسل بيت الطين الجزء الاول",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXY2qptTQzliWUh96LgUTrUu",
+					"playlist"
+
+				]
+			},
+
+            {
+				"title": "مسلسل بيت الطين الجزء الثاني",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXYdDdfsC02Y85C4R4CInwcf",
+					"playlist"
+
+				]
+			},
+			
+			{
+				"title": "مسلسل بيت الطين الجزء الثالث",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXaHP30Cdxg4ZcwdX0vPF4Tx",
+					"playlist"
+
+				]
+			},
+			
+			{
+				"title": "مسلسل بيت الطين الجزء الرابع",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZ52KfhtkUt5NgX7kPRAzCO",
+					"playlist"
+
+				]
+			}
+			
+			 
+
+		]
+	}
+	
+	,
+		
+	{
+		"title": " مسلسل ماضي يا ماضي",
+		"drawable": "",
+		"submenu": " مسلسل ماضي يا ماضي",
+		"iap": false,
+		"tabs": [
+
+			{
+				"title": "ماضي يا ماضي - الجزء الاول",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXZCb8NI9y9HUDFBj4ngf5sF",
+					"playlist"
+
+				]
+			},
+
+            {
+				"title": "ماضي يا ماضي - الجزء الثاني",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXYh7BszyIyjWfmQ4IdY64oz",
+					"playlist"
+
+				]
+			}
+					 
+
+		]
+	}
+	
+	,
+	
+	{
+		"title": "مسلسل جريش ومريش",
+		"drawable": "",
+		"submenu": "مسلسل جريش ومريش",
+		"iap": false,
+		"tabs": [
+
+			{
+				"title": "جريش ومريش - الجزء الاول",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXYyLUgCpvDrBewU2GQcdcJK",
+					"playlist"
+
+				]
+			},
+			
+			{
+				"title": "جريش ومريش - الجزء الثاني",
+				"provider": "youtube",
+				"arguments": [
+					"PLA-ufGbClOXalkBJ0qPo7Ckwi3IdMDa2O",
+					"playlist"
+
+				]
+			},
+			
+			{
+				"title": "جريش ومريش - الجزء الثالث",
+				"provider": "youtube",
+				"arguments": [
+					"PLEI6cY1p4K4UMMbAacSBMPM5gEkvWMoVe",
+					"playlist"
+
+				]
+			}
+			
+		]
+	}
+	
+	,
+
+	{
+		"title": "منوعات و حصريات دراما عراقية",
+		"drawable": "",
+		"submenu": "دراما عراقية",
+		"iap": false,
+		"tabs": [
+
+			{
+				"title": "المسلسل العراقي الزمن و الغبار | | HD",
+				"provider": "youtube",
+				"arguments": [
+					"PLZoJ_hacAdx2k6hHMWliuEgRuLIB46wKT",
+					"playlist"
+
+				]
+			},
+
+            {
+				"title": "المسلسل العراقي البرج و الثعبان | | HD",
+				"provider": "youtube",
+				"arguments": [
+					"PLZoJ_hacAdx2zf_P2JINRkr0LqBO5gdr2",
+					"playlist"
+
+				]
+			},
+			
+			{
+				"title": "المسلسل العراقي البديل | | HD",
+				"provider": "youtube",
+				"arguments": [
+					"PLZoJ_hacAdx1ETpYhl1z0IsfmDIFQbKX9",
+					"playlist"
+
+				]
+			},
+			
+			{
+				"title": "مسلسلات عراقية قديمة",
+				"provider": "youtube",
+				"arguments": [
+					"PLbW76437OcNKQJVFZYLs8zTU1PnOOqVcz",
+					"playlist"
+
+				]
+			} ,
+			
+			
+			{
+				"title": "مسلسل رجال الظل",
+				"provider": "youtube",
+				"arguments": [
+					"PL0XrSuyCuN1iYlH_283arTK089MbH53Y1",
+					"playlist"
+
+				]
+			} ,
+			
+			
+			{
+				"title": "مسلسل شوق كامل - Shawq HD",
+				"provider": "youtube",
+				"arguments": [
+					"PL2Gl4k3e_cvIovICcDdSszSO7Yi4lKGim",
+					"playlist"
+
+				]
+			} ,
+			
+			{
+				"title": "المسلسل العراقي ابو طبر كاملا",
+				"provider": "youtube",
+				"arguments": [
+					"PLsXBpywAqTZkH8Dr0X6qEs8FRvNjzePUF",
+					"playlist"
+
+				]
+			} ,
+			
+					
+			{
+				"title": "المسلسل العراقي أجنحة الثعالب",
+				"provider": "youtube",
+				"arguments": [
+					"PLACCBL7d2Yg7hKTG4tAVCtulHdifkk5OQ",
+					"playlist"
+
+				]
+			} ,
+			
+			{
+				"title": "المسلسل العراقي الهاجس",
+				"provider": "youtube",
+				"arguments": [
+					"PLFzgmcblYubxCMIVDtITSxrHRSiaDyPtE",
+					"playlist"
+
+				]
+			} ,
+			
+			{
+				"title": "المسلسل العراقي مناوي باشا",
+				"provider": "youtube",
+				"arguments": [
+					"PLFzgmcblYubw15hagRMUWLSLja8C2AJjt",
+					"playlist"
+
+				]
+			}
+				 
+
+		]
+	}	
+	,
+	
+	{
+		"title": "مسلسلات عراقية",
+		"drawable": "",
+		"submenu": "عن التطبيق",
+		"iap": false,
+		"tabs": [{
+			"title": "",
+			"provider": "custom",
+			"arguments": [
+				"com.knoozapps.appa.iraqdrama.SettingsFragment", "fragment"
+			]
+		}]
+	}
+]
